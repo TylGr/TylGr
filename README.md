@@ -1,4 +1,4 @@
-## Hi, I'm [Your Name] 👋
+## Hi, I'm Tyler 👋
 I'm a second-year Computer Science major at Northeastern University.  
 Currently exploring the world of programming languages like Java, OCaml, C/C++, and Assembly.
 
