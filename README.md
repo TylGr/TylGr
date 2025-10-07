@@ -11,12 +11,12 @@ Currently exploring the world of programming languages like Java, OCaml, C/C++, 
 
 ### Stock Tracker 📈
 An application that tracks stock prices and visualizes trends.  
-[GitHub Repo](https://github.com/TylGr/NUEvents)
+[GitHub Repo](https://github.com/TylGr/stock-tracker)
 
 ### NUEvents 🎉
 A platform to explore events happening around Northeastern University.  
 Built with [JavaScript, React Native, Node.js].  
-[GitHub Repo](https://github.com/TylGr/stock-tracker)
+[GitHub Repo](https://github.com/TylGr/NUEvents)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tyler-grant-557953312/)
