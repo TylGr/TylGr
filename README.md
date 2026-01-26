@@ -18,6 +18,11 @@ A platform to explore events happening around Northeastern University.
 Built with [JavaScript, React Native, Node.js].  
 [GitHub Repo](https://github.com/TylGr/NUEvents)
 
+### Sanguine Card Game 
+A recretion of Queens Gambit from Final Fantasy 
+Built with [Java, swing]
+[Github Repo](https://github.com/TylGr/Sanguine-Card-Game)
+
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tyler-grant-557953312/)
 
