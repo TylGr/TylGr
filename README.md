@@ -20,7 +20,9 @@ Built with [JavaScript, React Native, Node.js].
 
 ### Sanguine Card Game 
 A recretion of Queens Gambit from Final Fantasy.
+
 Built with [Java, swing].
+
 [Github Repo](https://github.com/TylGr/Sanguine-Card-Game)
 
 ## 📫 Connect with me
